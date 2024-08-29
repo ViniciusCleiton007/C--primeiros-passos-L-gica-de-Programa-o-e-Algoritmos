@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fBR6p6ZVBqw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinic\\OneDrive\\Desktop\\Estudos\\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\\Exemplo1\\Exemplo1\\Exemplo1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

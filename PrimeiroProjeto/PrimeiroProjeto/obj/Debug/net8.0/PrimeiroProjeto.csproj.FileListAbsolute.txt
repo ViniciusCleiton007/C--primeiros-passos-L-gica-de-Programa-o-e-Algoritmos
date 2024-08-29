@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.sourcelink.json
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
