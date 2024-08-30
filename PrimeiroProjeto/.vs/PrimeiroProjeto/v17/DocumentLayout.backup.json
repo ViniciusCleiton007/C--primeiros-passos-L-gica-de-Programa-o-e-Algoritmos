@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC2C02AB-65C5-41C4-A862-5639936A420D}|PrimeiroProjeto\\PrimeiroProjeto.csproj|c:\\users\\vinic\\onedrive\\desktop\\estudos\\c#-primeiros-passos-l\u00F3gica-de-programa\u00E7\u00E3o-e-algoritmos\\primeiroprojeto\\primeiroprojeto\\exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC2C02AB-65C5-41C4-A862-5639936A420D}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2C02AB-65C5-41C4-A862-5639936A420D}|PrimeiroProjeto\\PrimeiroProjeto.csproj|c:\\users\\vinic\\onedrive\\desktop\\estudos\\c#-primeiros-passos-l\u00F3gica-de-programa\u00E7\u00E3o-e-algoritmos\\primeiroprojeto\\primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2C02AB-65C5-41C4-A862-5639936A420D}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Desktop\\Estudos\\C#-primeiros-passos-L\u00F3gica-de-Programa\u00E7\u00E3o-e-Algoritmos\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Desktop\\Estudos\\C#-primeiros-passos-L\u00F3gica-de-Programa\u00E7\u00E3o-e-Algoritmos\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
+              "RelativeToolTip": "PrimeiroProjeto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:13:30.385Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Exemplo.cs",
               "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Desktop\\Estudos\\C#-primeiros-passos-L\u00F3gica-de-Programa\u00E7\u00E3o-e-Algoritmos\\PrimeiroProjeto\\PrimeiroProjeto\\Exemplo.cs",
               "RelativeDocumentMoniker": "PrimeiroProjeto\\Exemplo.cs",
-              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Desktop\\Estudos\\C#-primeiros-passos-L\u00F3gica-de-Programa\u00E7\u00E3o-e-Algoritmos\\PrimeiroProjeto\\PrimeiroProjeto\\Exemplo.cs*",
-              "RelativeToolTip": "PrimeiroProjeto\\Exemplo.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Desktop\\Estudos\\C#-primeiros-passos-L\u00F3gica-de-Programa\u00E7\u00E3o-e-Algoritmos\\PrimeiroProjeto\\PrimeiroProjeto\\Exemplo.cs",
+              "RelativeToolTip": "PrimeiroProjeto\\Exemplo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T18:00:02.604Z",
               "EditorCaption": ""

@@ -1,0 +1,7 @@
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\Exemplo1\Exercicio\bin\Debug\Exercicio.exe.config
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\Exemplo1\Exercicio\bin\Debug\Exercicio.exe
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\Exemplo1\Exercicio\bin\Debug\Exercicio.pdb
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\Exemplo1\Exercicio\obj\Debug\Exercicio.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\Exemplo1\Exercicio\obj\Debug\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\Exemplo1\Exercicio\obj\Debug\Exercicio.exe
+C:\Users\vinic\OneDrive\Desktop\Estudos\C#-primeiros-passos-Lógica-de-Programação-e-Algoritmos\Exemplo1\Exercicio\obj\Debug\Exercicio.pdb
